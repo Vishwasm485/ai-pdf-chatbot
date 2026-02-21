@@ -1,2 +1,13 @@
 SpeechRecognition==3.14.5
 typing_extensions==4.15.0
+streamlit
+python-dotenv
+requests
+pymupdf
+sentence-transformers
+faiss-cpu
+streamlit-pdf-viewer
+numpy
+torch
+transformers
+scikit-learn
